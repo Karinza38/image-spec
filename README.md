@@ -1,4 +1,4 @@
-# OCI Image Format Specification
+ # OCI Image Format Specification
 
 ![GitHub Actions for Docs and Linting](https://img.shields.io/github/actions/workflow/status/opencontainers/image-spec/docs-and-linting.yml?branch=main&label=GHA%20docs%20and%20linting)
 ![License](https://img.shields.io/github/license/opencontainers/image-spec)
